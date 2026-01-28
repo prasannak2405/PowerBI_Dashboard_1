@@ -77,7 +77,7 @@ The Power BI report consists of **three pages**:
 📄 PDF Report
 
 The complete Power BI report is also available in PDF format:
-
+(https://github.com/prasannak2405/PowerBI_Dashboard_1/blob/0393f2315ac377c08b0de9f32ff5a2e72783bce4/ESPN.pdf)
 
 
 ---
