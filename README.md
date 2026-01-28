@@ -67,7 +67,7 @@ The Power BI report consists of **three pages**:
 
 ## 📸 Screenshots
 
-![image alt]()
+![image alt](https://github.com/prasannak2405/PowerBI_Dashboard_1/blob/main/ESPN_CC.png?raw=true)
 /screenshots/bowling_analysis.png
 /screenshots/fielding_analysis.png
 
